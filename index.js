@@ -29,6 +29,7 @@ const CONFIG = {
     "--no-zygote",
     "--single-process",
     "--disable-web-security",
+    "--disable-extensions",
   ],
   webVersion: "2.2318.11",
 };
